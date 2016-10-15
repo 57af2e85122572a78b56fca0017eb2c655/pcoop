@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bignumber": "1.1.0",
+    "body-parser": "1.15.2",
+    "ethereumjs-testrpc": "3.0.0",
+    "ethereumjs-util": "4.5.0",
+    "express": "4.14.0",
+    "jsdom": "9.4.1",
+    "lodash": "4.15.0",
+    "socket.io": "1.4.8",
+    "solc": "0.4.2",
+    "web3": "0.17.0-alpha"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
+
